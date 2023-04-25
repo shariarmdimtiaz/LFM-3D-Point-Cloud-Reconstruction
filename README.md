@@ -1,7 +1,7 @@
 ## Enhanced 3D Point Cloud Reconstruction for Light Field Microscopy Using Unet-based Convolutional Neural Networks
 
 <br>
-<p align="center"> <img src="" width="90%"> </p>
+<p align="center"> <img src="https://github.com/shariarmdimtiaz/LFM-3D-Point-Cloud-Reconstruction/blob/main/proposed-model.png" width="80%"> </p>
 
 ## Preparation:
 
