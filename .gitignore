@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+Filter
+__pycache__
+*.local
+*.idea
+
