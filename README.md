@@ -55,7 +55,7 @@
 │    |    ├── gear
 ```
 
-## Test on your own LFs:
+## Test LFs:
 
 - Place the input LFs into `./full_data` (see the attached examples).
 - Run `make_patchdataset_lfm.py` for the LFM dataset and run `make_patchdataset_hci.py` for the HCI dataset to prepare patch data.
