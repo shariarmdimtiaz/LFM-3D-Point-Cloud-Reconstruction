@@ -52,7 +52,7 @@
 │    │    │    ├── ...
 │    │    ├── ic-2
 │    |    ├── chip
-│    |    ├── gear
+│    |    ├── microgear
 ```
 
 ## Test LFs:
@@ -61,3 +61,4 @@
 - Run `make_patchdataset_lfm.py` for the LFM dataset and run `make_patchdataset_hci.py` for the HCI dataset to prepare patch data.
 - Run `test.py` to perform inference on each test scene.
 - The result files (i.e., `scene_name.npy` and `scene_name.png`) will be saved to `./test_result/`.
+- Run `./DepthmapTo3DPointCloud/PointCloud3D.m` to visualize the point cloud scene.
